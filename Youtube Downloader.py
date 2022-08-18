@@ -4,7 +4,6 @@ import tkinter.messagebox
 from pytube import YouTube
 from tkinter import filedialog
 from tkinter.constants import * 
-from tkinter import *
 import os
 from PIL import ImageTk, Image
 
